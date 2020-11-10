@@ -1,0 +1,1054 @@
+The conditions of existence of uniqueness of the solution of differential game with
+quadratic function of a prize are established.
+Keywords: model, game theory, differential game, gain function, saddle value,
+quadratic form.
+
+In this paper we constructed the Kuranisi family for a trivial holomorphic vector
+bundle of rank n over a complex m-dimansional torus.
+Keywods: Kuranisi family, vector bundle, complex torus.
+
+Using the commutator of a linear differential operator, its eigenoperators and
+eigenvalues, we study special functions satisfying generalized conditions of the Cauchy-
+Riemann type.
+Keywords: commutator, eigenoperators, eigenvalues, orthogonal polynomials,
+barianalysis, barigolomorpy.
+
+The notion of the structure of a nonholonomic Kenmotsu manifold is introduced.
+The distribution of a nonholonomic Kenmotsu manifold is not integrable, unlike the
+Kenmotsu manifold. An almost contact metric structure is defined on the distribution of a
+K-contact metric manifold. This structure is called in the paper an extended almost contact
+metric structure. It is proved that the extended structure is the structure of a nonholonomic
+Kenmotsu manifold if and only if a Sasakian manifold with a distribution of zero
+curvature is chosen as the initial manifold.
+Keywords: nonholonomic Kenmotsu manifold, interior connection of an almost
+contact metric manifold, extended almost contact metric structure, Sasaki manifold.
+
+It is proved that if M is a K-contact metric manifold, then the metric skewsymmetric
+N-connection is flat if and only if it is a Sasaki manifold with zero Schouten
+curvature tensor.
+Keywords: Sasaki manifold, interior connection, plane connection with skewsymmetric
+torsion, Schouten tensor.
+
+The problem of existence of a cyclic basis for a given square matrix is considered.
+The existence of such basis is equivalent to the fact that the geometric multiplicity
+of each eigenvalue of the given matrix was equal to one. The formula for calculating the
+value of the multiple of the Vandermond determinant is found. The connection between
+the cyclic basis and the multiple of the Vandermond determinant is established.
+Keywords: cyclic basis, multiple Vandermond determinant, Jordan form of the
+matrix, eigenvalue, algebraic and geometric multiplicity of eigenvalue.
+
+For Bernoulli equations with periodic coefficients, phase portraits on the compactification
+of a cylindrical phase space are considered. We describe structurally stable
+equations – the equations whose topological structure of phase portraits does not change
+with small perturbations of the equation.In the set of structurally unstable equations, an
+open everywhere dense subset is distinguished. This set is a submanifold of codimension
+one in the Banach space of the equations under consideration. It consist of first order
+structurally unstable equations — equations whose topological structure of phase portraits
+does not change under small perturbations in the set of all structurally unstable
+equations.
+Keywords: Bernoulli differential equation with periodic coefficients, cylindrical
+phase space, structurally stable equation, first order structurally unstable equation, bifurcation
+manifold.
+
+The article deals with methodological aspects of preparation and verification of
+Olympiad problems in mathematics. The analysis of the requirements of the task IV
+International Student Mathematics Olympiad (II stage of all-Russian student Olympiad)
+which was held on the basis of RSATU named after P. A. Soloviev in December 2018.
+Keywords: olympiad problems, the scientific creativity of students, mathematical
+training.
+
+It is proposed to use post-final knowledge control to adjust work programs.
+Keywords: post-final knowledge control, learning efficiency, adjustment work
+programs.
+
+We analyze the errors made by students-economists during testing in mathematical
+disciplines. Suggestions for correcting them are given.
+Keywords: sense of tasks, mathematical analysis, linear algebra.
+
+The application of vector algebra inequalities for solving the olympiad problems
+of finding the global maximum and minimum of functions of several variables are given.
+Keywords: vector, the global maximum and minimum of the function, the triangle
+inequality.
+
+Some properties of a square matrix of units are presented, and several olympiad
+problems are solved that are connected with these properties. This material can be used
+in the work of the student mathematical olympiad lesson.
+Keywords: matrix, determinant, algebraic complement.
+
+We give an approach to determining the driving force of the drying process in the
+study of the discipline "Processes and apparatus of chemical technology." The methods
+of determining the driving force and the average driving force are considered. The factors
+influencing the magnitude of the driving force are noted. The procedure for determining
+the actual driving force of the drying process is given.
+Keywords: driving force, drying process, kinetic law, mass transfer coefficient.
+
+The paper analyzes existing mathematical dependencies, which allow calculating
+the time of the first drying period. We propose a method of determining a time of a first
+drying period.
+Keywords: drying process of wet materials, free moisture, critical moisture content,
+kinetics of the first drying period, drying duration.
+
+The article discusses the feasibility of using the discrete mathematics methods in
+the study of probability theory sections in a technical University. Specific examples of set
+theory elements application in solving problems are given.
+Keywords: interdisciplinary connections, addition and multiplication of probabilities,
+set theory, Euler circles, visualization.
+
+The article gives the information on the interregional student mathematical
+Olympiads, held on the basis of Yaroslavl State TechnicalUniversity in 2019, and analyzes
+its results.
+Keywords: student mathematical Olympiad, results.
+
+This article presents an overview of a mathematical olympiad for first-year students
+of the pedagogical university. It provides analysis of mistakes and level of preparation
+to solve non-standard tasks by first-year students of institute of physicomathematical,
+informatical and economic education.
+Keywords: mathematical olympiad, olympiad tasks, non-standard mathematical
+tasks.
+
+The article presents the tasks of the 2019 interregional student mathematical
+Olympiad held in Yaroslavl and their solutions.
+Keywords: student mathematical Olympiad, mathematical task, solution of tasks.
+
+Modern financial theory identifies the value of money over time, the determination
+of the real value of assets and risk management as fundamental research issues. The
+article considers the application of mathematical models in variable calculations of profitability,
+cost and riskiness of financial assets.
+Keywords: financial theory, value of money, financial assets, mathematical models.
+
+The article describes the modeling of dependencies that describe the impact on the
+number of scientists in Russia of factors such as: the cost of science from the federal budget
+in millions of dollars, the average price of typical housing per square meter in dollars, the
+population of Russia, the number of healthcare institutions, the number of universities, the number of university graduates in thousands, the cost of living in dollars, the dollar exchange
+rate. Factor data are presented in a range of values. Based on the normalized data,
+models for changing the number of scientists were constructed: a linear multifactor model,
+a model in the state space, autoregressive models of the first, second and third order, trend.
+For a linear multifactor model, a study of correlation factors was carried out. Based on the
+approximation of factors and post-forecast, a model is selected. It is shown that the model
+in the state space describes the object better. A forecast is made for the change in the number
+of scientists while maintaining tendencies. It is shown that if nothing is done, the number
+of scientists will decrease. The possibility of a decision maker to influence the negative
+impact of uncontrollable factors on the system has been investigated.
+Keywords: number, scientists, Russia, mathematical model, statistics.
+
+The article deals with a mathematical model describing the process of electrons
+flow distribution reflected from the surface of the molten material and falling on the collectors
+of electrons located in the sensing element of the electron beam position sensor.
+The model takes into account the effect of inelastic reflection of electrons arising in highdensity
+electron beams.
+Keywords: mathematical model, reflected electron flux, two-coordinate sensor,
+radiation pattern.
+
+The article deals with the impact of various economic and social factors on the
+migrations attractiveness of the Ryazan region. The study identified the indicators that
+have the greatest impact on the level of migration. Recommendations are given to increase
+the attractiveness of the region.
+Keywords: migration, indicators, coefficients of determination.
+
+We consider the first stage of the parachutist trajectory since he leaves the aircraft.
+The parachutist is a heavy load at this stage. On the basis of real data the mathematical
+model is determined. It describes the trajectory of the parachutist, in particular
+its free fall.
+Keywords: mathematical model of the parachutist motion, free falls of parachutist.
+
+A Markov chain is proposed for modeling random particle transport with memory
+effects. The modes of transport arising at various ratios of the model parameters determining
+the probabilistic characteristics of particles sporadic displacements and stops
+are studied.
+Keywords: random process, kinetic equatios, superdiffusion, subdiffusion, Markov
+chain.
+
+The article considers the technology of cold recycling and the dependence of the
+strength of the mixture on its composition.
+Keywords: cold recycling, road materials, cement.
+
+In this article, we have built an econometric model of the dependence of the
+share of the labor force on the total area of residential premises, falling on average per
+inhabitant, the average monthly nominal accrued wages of employees of organizations
+and the share of graduates of state and municipal day educational institutions in the total
+population. The research method is the analysis of panel data. The result of the study is
+to identify regional differences, the presence of hidden systemic or random effects.
+Keywords: econometric model, labor attractiveness of the region, panel data
+analysis.
+
+Daily water levels characteristics of the Pregel river, as a random process, have
+been identified. The results of observations of the last 17 years have been used. Pair correlation
+coefficients between realizations of different years were calculated. The type of
+autocorrelation function strongly depends on the start time of the observation. The autocorrelation
+function averaged by the observation start date was found.
+Keywords: Pregel river, water level, random process, pair correlation coefficients,
+autocorrelation function.
+
+The antenna based on a liquid cylindrical jet freely flowing down from a smooth
+hole was simulated. The surface shape of a cylindrical liquid jet was analytically asymptotically
+obtained. Antenna parameters were numerically modeled. The parameters of
+antennas constructed taking into account terms of the first and second smallness orders
+of the liquid jet's free surface amplitude wave perturbation that is part of the antenna
+element are compared.
+Keywords: antenna, cylindrical liquid jet, capillary decay, antenna characteristics.
+
+A software package prototype for modelling chemical reactions in complex molecular
+systems through the combined approach which optimizes calculations by choice
+of appropriate numerical method for each spatial scale was developed.
+Keywords: kinetics, brownian dynamics, molecular dynamics.
+
+A model of the periodic process of agglomeration and grinding is considered.
+Simulation of the process is represented as a change in the characteristics of an ensemble
+of particles capable of being separated and agglomerated in each transition between
+the states of the system. The results of simulation modeling of ideal agglomeration as an
+implementation of a random process are presented.
+Keywords: agglomeration, grinding, random process, simulation modeling,
+Monte Carlo method.
+
+Function interception types are given. Fundamental function interception methods
+of x86-based Windows applications are provided with examples.
+Keywords: function interception, detour function, calling convention.
+
+The applicability of fuzzy logic to assess the creative abilities of students, taking
+into account the ability to formulate the basic provisions of scientific research, to solve
+and invent problems in the field of theory of inventive problem solving is substantiated.
+Software implemented, using the mathematical package MatLab, the mechanism of assessing
+the creative abilities of students.
+Keywords: scientific abilities, students, basic provisions of scientific research,
+creativity, fuzzy logic, scientific thinking.
+
+A greenhouse microclimate control system with a data archiving function is
+considered. Adjustable parameters: temperature and humidity, soil temperature and
+humidity, carbon dioxide concentration, light spectrum, daylight hours
+Keywords: climate control, greenhouse, lighting, hardware-software complex,
+temperature, humidity.
+
+The article considers popular packages for energy modeling based on the EnergyPlus
+system and tools for optimizing energy consumption and parametric analysis of
+design options. A Python application has been developed that allows you to use all the
+features of the EnergyPlus system and provides integration with energy optimization and
+parametric analysis programs. Using the Python language opens up wide possibilities
+for supplementing the program with various tools for performing mathematical calculations
+and visualization, optimizing and analyzing data, and interacting with other modeling
+systems and applications.
+Keywords: energy simulation, optimization of energy consumption, EnergyPlus,
+Python, EpPy.
+
+The problems of motion of a color pixel in RGB-space to provide the required by
+algorithms of brightness-contrast transformations of pixel brightness changes are investigated.
+The trajectories of such motion are determined taking into account the possibility
+of the presence of hidden artifacts in the image. A new algorithm of brightnesscontrast
+transformations is proposed, the algorithm is designed to enhance the distinguishability
+of details of color images, based on increasing the distance on the brightness
+scale between the most common values in the image. Researches of results of application
+of the offered methods are carried out.
+Keywords: pixel, RGB-space, digital image, image processing algorithms.
+
+This paper contains the description of homogeneous non-split supermanifolds of
+dimension 1|4 over complex projective plane.
+Keywords: non-split homogeneous supermanifolds, retract, holomorphic vector
+bundle, tangent sheaf.
+
+A multidimensional isospectral Schrödinger equation and a Riccati type equation
+are obtained by the barisynthesis method from a second-order barilinear partial differential
+equation. For all equations, we solve the Cauchy problem with initial data on
+the hypeplane.
+Keywords: baryalgebra, spectral baryalgebra, barisynthesis, barilinear differential
+equation in partial derivatives of the second order, isospectral Schrödinger equation,
+Cauchy problem.
+
+The sections of distributions of sub-Riemannian manifolds are studied. It is
+proved that the image of a section is a geodesic submanifold of the distribution if the section
+is covariantly constant and the Lie derivative of the metric tensor is zero.
+Keywords: sub-Riemannian manifold, distribution section, completely geodesic
+submanifold.
+
+The negative answer is given to the question of existence for two different endomorphisms
+of a zero curvature distribution of a Sasaki manifold giving rise the Riemannian
+spaces belonging to the same geodesic class.
+Keywords: Sasaki manifold, N-extended connection, Schouten curvature tensor.
+
+A plane model for 4-dimensional projective space is constructed by means of an
+algebraic variety of secant lines for three general 2-dimensional planes in P4.
+Keywords: projective space, subspace, plane model, mapping by a hypernet, images
+of points, lines, planes.
+
+In the two-layer liquid system velocity of the Stokes drift initiated by the Stokes
+wave packet is computed. There is surface electric charge on the interface and the media
+are involved in relative movement.
+Keywords: tangential velocity discontinuity, Stokes drift, Stokes wave packet, surface
+charge.
+
+We describe bifurcations of codimension one in the space of vector fields on the
+unit disc, invariant under the rotation group.
+Keywords: planar vector field, rotation group, invariance, first order structural
+instability, bifurcation manifold.
+
+The Solow`s model with a seasonal economic structure has been studied.
+The existence of a stable oscillatory mode of changing funds is established.
+Keywords: Solow`s model, cycle, production funds, differential equation,
+stability.
+
+The article presents the tasks of the IV Interregional Student Mathematical
+Olympiad (II stage of the All-Russian Student Olympiad). Solutions and statistics are
+given.
+Keywords: olympiad tasks, the scientific creativity of students, mathematical
+training.
+
+It is examined the features of studying of the topic: hamming codes. It is indicated
+that in order to master this topic, students should know the basics of combinatorics,
+mathematical logic and the binary number system.
+Keywords: codes, hamming codes, noise-immune coding.
+
+The article deals with some methodological techniques to improve the objectivity
+and quality of training of students of technical University with a significant saving of
+training time.
+Keywords: educational process, lecture, practical class, laboratory work, calculation
+and graphic work, efficiency, quality.
+
+The content of olympiad lesson for the first year students on the topic limit of
+sequence, is presented.
+Keywords: limit of sequence, equivalent sequences, infinitesimal sequence,
+squeeze theorem.
+
+The conclusion of the main equation of the centrifugal pump-the equation of
+L. Euler on the basis of the equation of D. Bernoulli is presented.
+Keywords: centrifugal pump, the kinetic energy of the liquid, the theoretical
+head, head losses, D. Bernoulli equation, L. Euler's equation.
+
+Calculated formulas for determining the coefficient of hydraulic friction used by
+students in the calculations of pipelines and hydraulic devices are presented and analyzed.
+Keywords: fluid energy, head, viscosity, roughness of the pipeline, Reynolds criterion,
+head loss, fluid flow regimes, the coefficient of hydraulic friction.
+
+We provide information about the international and all-Russian student mathematical
+Olympiads held on the basis of Yaroslavl State Technical University in 2018, the
+tasks of the Olympiads and examples of their solutions.
+Keywords: student mathematical Olympiad, task, solution of tasks.
+
+The article is devoted to the implementation of the competence approach in higher
+education. The essence of pedagogical projecting in the formation of competencies in
+the process of teaching mathematics is considered. The features of mathematical training
+courses which need to be considered at formation of competences are allocated.
+Keywords: competence, competence approach, teaching mathematics, pedagogical
+projecting, higher education.
+
+The urgency of distance educational technologies in mathematical education is
+proved. The features of the development of online courses in higher mathematics and didactic
+aspects of their application for the entrance tests to the universities of EMERCOM
+of Russia.
+Keywords: distance learning technologies, online courses, higher mathematics.
+
+In this paper we have identified statistically significant factors of the region’s
+manufacturing potential, influence the gross regional product per capita, the amount of
+input of fixed assets per capita.
+Keywords: econometric modeling, economic development, manufacturing potential,
+multiple regression, multiple correlation.
+
+The relevance of calculations of reinforced concrete structures for the effect of
+repeated loads, taking into account unloading, is substantiated. The features of the computational
+model of a built-up bar are presented when performing calculations taking into
+account the loading mode. Recommendations on the evaluation of the bond stiffness
+at the stage of unloading of a reinforced concrete element are given.
+Keywords: reinforced concrete bar, regime loadings, bond stiffness.
+
+We consider the problem of linear programming for finding of an optimum ratio
+between working hours of the teacher and the amount of its salary. The analysis of the
+received results and the constructed model is made.
+Keywords: pedagogical ergonomics, linear programming, optimal solution.
+
+We obtained experimentally dependencies to determine the injection coefficient
+of a liquid-gas injection apparatus.
+Keywords: dispersion flow, mechanical nozzle, injection apparatus, injection
+coefficient, injection efficiency.
+
+The article deals with a mathematical model that describes the process of distr
+bution of the flow of electrons reflected from the surface of the molten material and fal
+ing on electronic collectors located in the sensing element of the electron beam position
+sensor. The model takes into account the influence of inelastic electron reflection occu
+ring in high-density electron beams.
+Keywords: mathematical model, flux of reflected electrons, elementary
+beam of high density, numerical integration, sensing element, collector of electrons.
+
+We used a neural network the scientific substantiation of the graduate's compliance
+with a certain type of military activity, on the basis of progress in the main categories
+of disciplines. As an input function of the neural network used student performance
+for each discipline. As an output function used a type of professional military activity,
+which is suitable graduate.
+The best model 3 MLP 56-14-4 was chosen on the basis of the analysis of the results
+obtained from the models based on statistical characteristics, the number of errors,
+predicted values of the output function, sensitivity, maximum values of performance and
+control. The error of the experiment is in the range 0.21-0.26. The proposed scientific method
+can be taken into account in the distribution of graduates to primary officer positions.
+Keywords: graduate, neural network, predict, model, objective function
+
+A system of kinetic equations is proposed for describing random particle transport
+in a finite medium, taking into account memory effects. The modes of transport arising
+under different conditions of particles motion and their staying in traps are studied.
+Keywords: CTRW, kinetic equations, superdiffusion, subdiffusion.
+
+In this article we investigated the influence of a number of economic factors on
+the labor attractiveness of Russian regions. We chose the size of the workforce and the
+need for workers, declared by employers, as indicators of labor attractiveness. We analyzed
+the dynamics of changes in the number of factors affecting the labor attractiveness.
+Keywords: econometric modeling, multiple regression, multiple correlation, labor
+market, labor attractiveness of the region.
+
+The distribution law of maximum annual water levels is constructed with the help
+of probability theory regularities. The case when the probability density of the flow rate
+and the unambiguous relationship between the maximum flow rate and the level in a certain
+section of the river are known is considered. The obtained probability density makes
+it possible to calculate the maximum annual levels of the Pregel river of a given security.
+Keywords: river level, water consumption, maximum value, probability density,
+curve of the security.
+
+In this paper, we consider a mathematical model of a viscous liquid flow around
+plate. The finite volume method was applied to calculate the unsteady flow of water. Calculations
+were made in a freely distributed package OpenFOAM. The following solvers of the
+OpenFOAM package were considered: icoFoam, pisoFoam, simpleFoam, pimpleFoam.
+Examples of a numerical solution for various parameters of the problem are given.
+Keywords: finite volume method, Navier-Stokes equations, OpenFOAM.
+
+In the technological process of road construction the most important is the operation
+of compaction. Among the many road construction materials, the process of compaction
+of asphalt concrete coatings is the most difficult to algorithmize due to a large
+number of factors affecting it. This paper shows the methodological approaches to the
+definition of sets of machines and modes of vibration impact on the compacted material
+by each roller. It is proposed to optimize the process parameters based on the analysis of
+the fourth coordinate.
+Keywords: asphalt concrete pavement, compaction, roller, set of machines, mode
+of operation, model, optimization of parameters.
+
+We consider the stages of design and product development, taking into account
+existing engineering methods, as well as the use of mathematical probability to calculate
+the occurrence of a failure by part, node.
+Keywords: product design and development, DFMEA, PFMEA, APQP, MTBF,
+mathematical probability.
+
+A model is proposed for estimating the volume of supply of one product on
+a single target segment. It takes into account the uncertainty of the product offer
+competitors.
+Keywords: model, game theory, decision-making, offer volume, sales flow, competition,
+profit evaluation.
+
+In a simplified form, the technique of automated calculation of firmware for
+processing complex internal surfaces in parts on multi-purpose machines based on mathematical
+modeling and experimental studies of the stretching process is considered.
+Examples of the calculation of firmware and calibration efforts of the fine holes.
+Keywords: tool firmware, broaching, power cutting, filing, remove the stock, profile
+holes, machining.
+
+The paper presents theoretical representations of the process of interaction of
+cutting elements of construction and road machines with the material, presents the methodology
+and results of penetration surveys of the interaction of conical dies with cement
+concrete and bituminous concrete. The estimation of efficiency of teeth of machines
+with different angles of sharpening is predicted.
+Keywords: bituminous concrete, cement concrete, static penetration, conical die,
+sharpening angle.
+
+The paper cjnsiders the problem of calculating the parameters of typical regulators
+for technological processes with several input and output parameters. A method is
+proposed to reduce the influence of channels on each other, as well as to reduce the impact
+of random disturbances.
+Keywords: multidimensional control object, PI-controller, q-factor, random disturbances.
+
+The paper examines the possibility of using a Jeff Tupper`s self-referential formula
+as one of the steganography algorithms in order to hide important information.
+Also, it provides provides an overview of the existing methods of steganography.
+Keywords: steganography, Tupper's self-referential formula, protection of information,
+methods of steganography.
+
+The paper considers the problem of the occurrence of a self-oscillation mode
+with the simultaneous regulation of the same technological parameter by several control
+systems, including different types (linear and nonlinear) of regulators. Two ways to solve
+this problem are proposed, based on switching control loops when the output variable
+approaches the specified value. Numerical experiments in the Simulink system of the
+MATLAB package confirmed the efficiency of the proposed algorithms.
+Keywords: PID controller, bang-bang controller, self-oscillation mode, MPC,
+MATLAB.
+
+The technique of studying the adaptation of farm animals using the approach of
+correlation adaptometry is considered. A brief theory of the problem is presented. Advantages
+and shortcomings of application of such method in practice of veterinary and zootechnical
+researches are given.
+Keywords: correlation adaptometry, correlations between physiological parameters,
+adaptedness, farm animals.
+
+The results on the structure of the quasi-liquid water layer in the "frozen water –
+clay mineral" system using the probe technique developed on the basis of the mössbauer
+isotope 57Fe in two forms (Fe2+ and Fe3+) are presented. In the framework of fractal
+geometry, the elastic parameters (shear modulus, Poisson's ratio, Gruneisen parameter)
+were estimated at the surface ice and the transition "Menger's Sponge" 0 "Kantorov's
+Dust" was established with a decrease in the layer thickness. The presented results will
+be useful in solving the applied problem – the construction of the missing explanation of
+the mechanism of "obtaining" natural nanotubes.
+Keywords: Mössbauer spectroscopy, quasi-liquid water layer, shear modulus,
+Poisson's ratio, Grüneisen parameter, fractals, fractal geometry, Menger sponge, Kantor
+dust.
+
+We investigate a normal periodic system of ordinary differential equations in a
+neighborhood of infinity. The stability case, which is critical in the linear part, is considered.
+The stability conditions of the zero solution via the parameter are obtained. The
+properties of the monodromy operator are used.
+Keywords: differential equation, stability, small parameter, operator
+of monodromy.
+
+The paper establishes conditions for the bary-conformality of a baryholomorphic
+mapping. In particular, we give conditions for the conformality of a multidimensional
+fractional-linear transformation.
+Keywords: bary-algebra, spectral bary-algebra, bary-holomorphic, baryconformal,
+fractional-linear transformation.
+
+On the distribution D and codistribution ∗	of a manifold M with a sub-
+Riemannian structure of contact type , , , ,, extended almost contact metric
+structures are defined. We study the obtained structures.
+Keywords: sub-Riemannian structure of contact type, distribution and codistribution
+of sub-Riemannian manifolds, extended almost contact metric structures.
+
+The notion of Wagner-Schouten tensor of sub-Riemannian manifold is introduced.
+The extended B-metric structure is defined on distribution of sub-Riemannian manifold
+with non-zero Wagner-Schouten tensor. The properties of obtained structure are
+studied.
+Keywords: sub-Riemannian manifold of contact type, interior geometry of sub-
+Riemannian manifold, extended almost contact structure with B-metric, Wagner-
+Schouten tensor.
+
+The instability like Calvin-Helmholtz connected with the movement of the external
+environment concerning objects with various geometry is considered: planes, cylinder
+and sphere.
+Keywords: liquid, interface, electric charge, Calvin-Helmholtz's instability
+
+We give a constructive method for constructing a rational normal variety of
+n − p +1 order p dimension in p -dimensional projective space is indicated. The manifold
+of one-dimensional bisectants of this variety is studied.
+Keywords: variety, Grassmannian, subvariety on Grassmannian, Schubert cycle,
+elementary numerical characteristics.
+
+We consider an autonomous differential equation of the second order on a circle
+depending on a small parameter and the corresponding dynamical system on the cylindrical
+phase space. For zero value of the parameter, this system is assumed to be integrable
+with a continuum of periodic trajectories that are not homotopic to zero. In the generic
+case, the existence of coarse limit cycles for small values of the parameter is
+proved.
+Keywords: second-order differential equation on the circle, cylindrical phase
+space, limit cycle.
+
+An entropy-information component in engineering education of the chemical and
+technological profile is considered. On the example of multicomponent rectification
+process the system statement and the solution of tasks from synthesis of optimum structure
+of system before her optimum decomposition and calculation of each subsystem
+(column) separately are given. At the process description the principle of an entropy
+maximum (Jaynes formalism) is used, and by optimization the cybernetic law of a necessary
+variety (law Ashby) is used .
+Keywords:, maximum entropy principle, law of a necessary variety, mathematical
+modeling, optimization, rectification.
+
+We consider the tasks of student mathematical olympiads related to the concept
+of convex function.
+Keywords: inequality, convex function, epigraph of function.
+
+It is examined the features of studying of the topic: the synthesis of encoders of
+cyclic codes. We point out the need for a step-by-step consideration of the topic.
+Keywords: codes, cyclic codes, noise-immune coding, encoders of cyclic codes.
+
+The paper examines a dependence of the activity of the collective on the emotional
+background. The mathematical model of the optimal mode of social group activity is
+constructed.
+Keywords: mathematical model, emotional background, optimal mode.
+
+This article is devoted to the application of the "two policemen" theorem to finding
+limits of numerical sequences in classes of a student's mathematical circle.
+Keywords: numerical sequence, limit of a sequence, "two policemen" theorem,
+student mathematical Olympiads.
+
+The following questions are discussed: forms of recording a differential equation,
+the concept of a solution and methods of its assignment, the types of equations that are
+subject to study.
+Keywords: course of mathematics for technical universities, differential equation.
+
+The coefficient conditions for the solvability of the game of two zero-sum persons
+are found, provided that the win function is quadratic and concave in both variables.
+Keywords: model, game theory, decision-making.
+
+Basic concepts of the bimoment theory of bars of solid cross section of V. Z.
+Vlasov are adapted to determine the relative deformations of concrete in bend reinforced
+concrete elements with discrete cracks. To determine the deformations caused by the deformation
+of the cross-section of the rod, a parabolic dependence was used.
+Keywords: discrete cracks, plane section hypothesis, cross section deplanation,
+bimoment.
+
+A model is proposed in which the distribution of the time of trouble-free operation
+of the system is considered as a stationary solution of the Fokker-Planck kinetic equation
+for a random process occurring in the system. The distribution of the time of
+trouble-free operation in the case when the kinetic equation contains fractional derivative
+operators is found and investigated.
+Keywords: reliability theory, trouble-free time, kinetic equations, fractional derivatives,
+stationary distributions.
+
+The article discusses influence of the crushed stone fraction size on the moisture
+content during storage in the stack at the asphalt plant.
+Keywords: fractionated crushedstone, humidity.
+
+The article discusses the use of liquid anti-icing agents.
+Keywords: anti-icing agent, snowy reel.
+
+The paper analyzes the possibility of manufacturing on the basis of a fibroconcrit
+mixture of roofing piece a material having increased strength characteristics and containing
+polypropylene fiber. We made modeling and calculation of tiles in the software
+compute complex SCADOffice.
+Keywords: fiberglass, roof tile, strength, model.
+
+In this paper we justified the use of binary choice models to assess the probability
+of winning auctions and quotations held in medical institutions that use the medical
+products of JSC "Elatomsky instrument plant". We developed various binary choice
+models from two regressors: the initial value of the lot and the plant's product share in
+the lot.
+Keywords: auction, quot, binary model, sales model.
+
+On the basis of generally accepted assumptions the features of static characteristics
+of pneumatic throttle converter are analyzed.
+Keywords: nozzle-flap element, static characteristic, feature points and lines.
+
+We give a chart for rapid calculation of parameters for the throttle converter of the
+"nozzle-flap" type.
+Keywords: nozzle-flap element, chart for quick calculation.
+
+The results of PC modeling of 2D grayscale images with geometrical deformations
+and several classes’ recognition with the usage of Kalman invariant correlation filters
+are given. In addition, data is providid for some other types of correlation filters.
+Keywords: correlation filter, correlation function, Fourier transform, optoelectronic
+correlator.
+
+An algorithm for choosing the preferred variant of an automated control system
+is proposed and tested. Based on the proposed algorithm, applying the theory of the multi-
+criteria utility function, the most preferable option is detected.
+Keywords: automated control system, the theory of the multi-criteria utility function,
+index, numerical scale, weight, expert review.
+
+The paper presents an analysis of the dependence of the parameters of the Fokker-
+Planck kinetic equation on the energy characteristics of the process of forming cavitation
+spheres in the flowing part of the control valve.
+Keywords: random process, kinetic equation, cavitation bubbles, macro-system,
+energy closure, stochastic energy.
+
+The article considers the influence of the use of solid chemical anti-icing reagents
+on the safety of highways. We give… results …of measuring… the coefficient… of adhesion.
+The most common …reagents… are considered.
+Keywords: winter slipperiness, anti-icing material, coefficient of adhesion.
+
+A technique of analysys the stress-strain state of a rubber membrane based on
+SKI-3 rubber is considered when it is indented by a spherical indentor.
+Keywords: The rubber membrane, a complex stress-strain state, finite element
+analysis, indentor, contact loading.
+
+We consider the influence of friction materials on road safety in winter. The results
+of experiments are presented.
+Keywords: road, winter slipperiness, sand, gravel, coefficient of adhesion.
+
+An analysis of the stochastic relationship between the maximum annual levels
+and water consumption of the Pregel River in the city of Gvardeysk was performed. It is
+shown that in General it is necessary to take into account the random nature of both values.
+In the considered case the correlation coefficient close to one allows to use the standard
+calculation procedure of regression dependence parameters without taking into account
+stochastic character of argument.
+Keywords: river level, water consumption, maximum value, regression equation,
+calculation errors.
+
+The article analyzes the statistical data of daily water levels of rain floods in the
+Izhora river (the left tributary of the Neva river), presents a two-factor regression model
+of the forecast of the rainwater layer.
+Keywords: emergency situation, mathematical model, prediction, regression,
+rainfall event, hydrological forecast.
+
+In terms of the established legal lower limit of the cost of educational services,
+the calculation of the profitability of educational programs, the determination of the
+threshold of profitability of educational institutions, the possibility of providing economically
+reasonable discounts.
+Keywords: marginal profitability, educational program, market conditions.
+
+The mathematical modeling of the second stage of the powdered rubber mixture
+preparation process in a plow mixer with a milling cutter is considered. The model allows
+determining the degree of filling of the mixture particles as a function of time.
+Keywords: modeling, preparation of powdered rubber mixture, plow mixer with
+cutter.
+
+The article discusses the work of the organization of wholesale and retail trade
+with external suppliers. Using the process approach, a model of business processes of interaction
+with suppliers, and identified the main problems, and recommended the use of
+SRM systems. The description of the main modules of the SRM system, their capabilities
+and advantages is also given.
+Keywords: the company of wholesale and retail trade, process approach, business
+process modeling in IDEF0 methodology, SRM systems.
+
+The article gives a brief description of the Yaroslavl branch of the Moscow outsourcing
+company to support the business of Internet-trading for the solution of web development,
+fullfilment, call-center and logistics. The conducted brief analysis of the personnel
+policy, considers the main problems of personnel management in companies, financed
+and proposed measures to improve the personnel management system. The substantiation
+of application of the corporate portal in the work of the organization is described
+that will allow it to save time, automate a variety of operations, to simplify the
+search of necessary information, establish the communication between employees, departments
+and divisions, would enhance transparency in the company.
+Keywords: outsourcing company, personnel management system, improvement,
+information technologies, corporate portal.
+
+We consider a grayscale digital image contrast and total illuminance djustment
+method by bringing the original luma histogram to normal distribution with specified
+parameters.
+Keywords: digital images, image luma histrogram, normal distribution, digital
+image processing.
+
+The paper shows the formation of structure of the client part of the information
+system on the basis of object-oriented approach in the form of charts of states and
+classes.
+Keywords: automated information system, object-oriented design, chart of
+classes, chart of states.
+
+We present the results of the conceptual model development, which is necessary
+for the implementation of an automated information system for calculating, distributing
+and accounting for the academic load of the department.
+Keywords: automated information system, distribution of educational load,
+modeling of information processes.
+
+The paper considers various variants for practical implementation of model predictive
+control methods. Most easily, these methods can be implemented using the
+MATLAB package. MATLAB has a wide range of tools for working with MPC controllers.
+An alternative is to use specialized libraries for universal programming languages.
+The most convenient and promising programming language for this is the Python language.
+Keywords: MPC, MATLAB, Simulink, MPC Toolbox, Python.
+
+The article deals with the problem of significant increase in the adhesive efficiency
+of galvanic sludge treated in a jet mill, when it is used in asphalt mixtures together
+with other mineral fillers. Especially improve such defining indicators of asphalt concrete
+as strength, adhesion of bitumen to the mineral part, long-term water resistance.
+Keywords: galvanic sludge, bitumen, adhesion, asphalt.
+
+We investigate the structure and energy of the formation of hydroperoxyl (HOO•)
+and hydroxyl (HO•) radicals with hydroxide ion and hydroxonium ion present in the
+aqueous phase during the oxidation of hydrocarbons in micelles. One of the reasons for
+the decrease in the rate of oxidation of lipid models in micelles is established in
+comparison with oxidation in a homogeneous hydrocarbon phase.
+Keywords: lipids, micelles, complexation, hydroperoxyl radical, hydroxyl radical,
+hydroxide ion, hydroxonium ion.
+
+We present results of studies of productive and adaptive characteristics of imported
+Holstein cattle breed in two generations in conditions of the Upper Volga region
+of Russia.
+Keywords: milk yield, Holstein cattle, mothers and daughters, coefficient of adaptation,
+the Upper Volga region of Russia.
+
+The article considers the influence of traditional anti-icing reagents on lawn
+grass, which is planted along the carriageway.
+Keywords: anti-icing reagent, lawn grass.
+
+The technology of purification of waste copper-containing solutions providing a
+return to the production of copper and environmental protection of the environment is
+considered.
+Keywords: cementation, copper-containing wastewaters, electromagnetic apparatus,
+picking solution.
+
+The process of destruction of magnetic microparticles under conditions in the
+leaching regime of hydro-morphological soils is studied. Eight samples of different origin
+were studied. There were samples of both technogenic origin and separate soil horizons.
+Found two speed of the destruction of the magnetic susceptibility and magnetization:
+the “fast” and “slow”.
+Keyword: magnetic particle, magnetite, magnetic susceptibility, redox conditions.
+
+Experimental results on the structure and properties of the quasi – liquid water
+layer in the system "frozen water-clay mineral" are presented using the probe technique
+developed on the basis of the mössbauer isotope 57Fe in two forms (Fe2+ and Fe3+). The
+problem was solved with the help of the analysis of the temperature behavior messbauerovskoi
+parameters of experimental spectra in the framework of the physical (quantum
+and/or classical) nature of the anomalies and properties of water. The temperature
+transformation of the mössbauer spectra of the system under study was qualitatively explained
+by the models traditionally described as two types of phase transitions ("orderdisorder"
+and "order-order"). If in the three – dimensional case, melting always occurs
+by means of the first kind of transition, then in the two-dimensional case, the melting
+scenario is established from a variety of options. According to this, the system melts by
+means of two continuous transitions of Berezinsky – Kosterlitz – Taules with the presence
+of an intermediate hexatic phase characterized by a quasi-initial order. It is found
+that the first continuous transition is due to the ferroelectric phase transition, and the
+cause of the second transition is quantum in nature and requires, apparently, additional
+research. An attempt of quantitative evaluation of elastic parameters (shear modulus,
+Poisson's ratio, Gruneisen parameter) at the surface of the ice. At the same time, its
+structure was satisfactorily described in the framework of fractal geometry and with a
+decrease in the layer thickness, the Menger Sponge 5 Kantor Dust transition was established.
+The presented results will be useful in solving the problem of searching for liquid
+water on Mars, since the diagnosis of the presence of CHS on the ice surface by the MS
+method can be a characteristic feature of the presence of "fresh" water on the red planet.
+Keywords: Mössbauer spectroscopy, quasi-liquid water layer, phase transitions
+of first and second kind, ferroelectric phase transition, topological phase transition, twodimensional
+melting transition Berezinsky – Kosterlitz – Taules, shear modulus, Poisson's
+ratio, Gruneisen parameter, fractals, fractal geometry of the Menger sponge, dust,
+Cantoro Islands, Mars.
+
+In this paper the combined influence of vertical vibrations and surface electric
+charge on the stability of a charged horizontal fluid layer based covered by dielectric
+fluid is investigated.
+Keywords: system of two immiscible ideal fluids, vibration field, electric charge.
+
+We propose a bari-analogue of the projective space (projective geometry) and
+give the applications of this analogue to solving of systems of nonlinear differential equations
+of Riccati type (ordinary and partial).
+Keywords: bari-algebra, projective bari-elements, projective bari-space, projective
+bari-algebra, projective differential equation, system of Riccati (Schrödinger) differential
+equations.
+
+We have shown the possibility of using systems of linear second order recurrence
+equations with constant coefficients for solving quadratic Diophantine equations.
+Keywords: quadratic Diophantine equation, recurrence equation, Pell’s equation.
+
+A fixed point theorem for nonexpansive mappings satisfying Frum-Ketkov condition
+is proved.
+Keywords: fixed point, nonexpansive mapping, the Frum-Ketkov condition, Hilbert
+space, metric projection.
+
+The Banach contraction mapping principle is applied to prove the solvability of
+Hammerstein integral equation.
+Keywords: fixed point, measurable set, integral operator, contraction mapping.
+
+Necessity of the comparative analysis is shown for soil-mineral systems of the
+Earth and rocks usage of Mars for the first time on examples of results of concrete researches
+at use Mossbauer spectroscopy. The offered technique is effective for the accounting
+and studying of the processes occuring in multicomponent natural objects. The
+way of dividing of magnetic particles on space and technogenic is put forward as a hypothesis.
+Keyword: Mossbauer spectroscopy, soil-mineral Earth, soil Mars.
+
+Asymptotical analytical calculation for nonlinear oscillating spherical charged
+drop was found. Multimode initial deformation including two serial modes is the translational
+mode excites. The charge centre oscillates around the equilibrium position, so the
+drop radiates electromagnetic waves. The location of the electromagnetic radiation power
+depending on drop radius and drop charge was found for a separate drop and cloud.
+Keywords: charged drop, nonlinear oscillations, electromagnetic radiation, dipole
+radiation.
+
+A singular Hilbert integral equation of neutral type of the first kind in the Holder’s
+space of 2pi -periodic functions is considered. Conditions of solvability and unique
+solvability of the equation are found and the convergence of regularized solutions is
+proved.
+Keywords: singular equation, integral of Hilbert, Fourier series, spectrum of linear
+operator, regularization method by shift.
+
+The comparison of Lagrange coordinates method and Euler one for liquid particle
+path calculation are considered. Trajectories of the liquid particle are presented.
+Here is shown that both methods are utilizable to calculate the average drift associated
+with propagation of periodic wave along the surface.
+Keywords: Lagrange coordinates, Euler coordinates, ideal fluid, mass transfer.
+
+The paper provides new sufficient conditions of linearization of smooth m ×l -
+actions in a neighborhood of a fixed point.
+Keywords: smooth action of a group, completely integrable differential equation,
+linearization.
+
+The results of the study of magnetic spherules from different sources, the character
+of the distribution of their sizes in various time intervals are cited. The influx spherical
+magnetic particles on the Earth’s surface was determined.
+Keyword: spherules, magnetic particle, Earth’s surface.
+
+The method of phase transitions calculation in the complex dividing systems including
+elements with equilibrium output streams is considered. The method is based on
+information approach of entropy maximum. Examples of calculation of multicomponent
+mixes division systems at various problem definitions are given.
+Keywords: phase change, thermodynamic equilibrium, maximum entropic principle,
+complex system, flash vaporization, single condensation
+
+We present model that allows to evaluate assess the reliability of reinforced
+concrete elements. The calculation algorithm is implemented layered approach.
+Keywords: reliability, crack, limiting states method.
+
+The paper proposes a theoretically grounded method of calculation of the contrast
+of the screen image taking into account all relevant factors, including the contrast
+of the projector and conditions of the demonstration.
+Keywords: lighting of the screen, outside illumination, contrast and the projector
+image, extreme contrast, approximation error.
+
+The results of PC modeling of 2D grayscale images with geometrical deformations
+recognition are given. There were used several distortion invariant correlation filters:
+MACE, GMACE, MINACE and DCCF.
+Keywords: invariant correlation filters, correlation function, object recognition.
+
+The method of obtaining the kinetic equations to describe systems in which occurs
+several related stochastic processes with arbitrary probability characteristics is
+proposed.
+Keywords: CTRW, kinetic equations, processes with memory.
+
+The process of loading of a rubber membrane with spherical indentor allowing to
+analyze its stress-strain state in the conditions close to the operational is considered.
+Keywords: rubber membrane, stress-strain state, complex stress condition, indentor.
+
+Calculation methods of setting centrifuges for different precipitation regime is
+presented.
+Keywords: performance of setting centrifuges, different precipitation regimes,
+separation factor, Archimedes criterion, settling time.
+
+In this paper we consider the mathematical model of the indoor environment, taking
+into account the transfer of heat, moisture and POLLUTANT. This model can be used
+to control the climate in the building.
+Keywords: indoor environment, mathematical model, HAM, CAMPS, HVAC.
+
+The simulation of non-stationary process carbon dioxide absorption based on a
+simplified nonlinear two-mode model showed the following. The time of transition of the
+process to the convective mode exceed the time of process instability more than 100 times
+and its value is the same order as the known experimental data for wide range of initial
+pertrurbations of concentration. The mass of absorbed substance versus the square root
+of time weakly depends on the initial conditions and in qualitative agreement with known
+experimental data.
+Keywords: Marangoni effect, two-mode model, transition time estimation.
+
+The problem of the rating assessment of financial and economic state of enterprises
+(suppliers) from the standpoint of multicriteria choice was reviewed. The main challenges were identified that we face when building integral ratings: the problem of
+choice of the principle of compromise and the availability to him of the principle of optimality;
+the problem of priorities of criteria; the problem of normalization criteria. One of
+the most common was analyzed in the rating principles of the compromise – the principle
+of equitable assignment that solves the problem of multicriteria radical way – due to the
+convolution of the set of criteria into a single integral criterion. For hierarchical synthesis
+of integral indicator of rating estimation procedure is proposed based on the method
+of analysis of hierarchies and the number of auxiliary computational procedures, allowing
+you to perform point and interval estimation of indicators of financial and economic
+state of enterprises.
+Keywords: objective rating evaluation, multicriteria you-boron, the principle of
+compromise, the principle of optimality, the method of analysis of hierarchies.
+
+When analyzing the motion of the particles in the first steps of the dust collectorclassifier
+is asked to take into account the resistance force proportional to the velocity of
+the particles. For this case, the mathematical solution to determine the speed and location
+coordinates of the particles over time was given.
+Keywords: dust collector-classifier, dust collection efficiency, speed of the particle,
+particle location coordinates in time.
+
+A mathematical model of periodical grinding of elastic materials in mills with
+blade elements is considered.
+Keywords: grinding, elastic particles, cutting, kinetics.
+
+On the basis of method of movements of age made a projection of the number and
+structure of the population of Russia to 2025 year. Based on the forecast, it is calculated
+the retirement age of citizen of Russia subject to constancy theloadratioonworkingofpopulation
+of Russia.
+Keywords: demography, forecasting, retirement age.
+
+Analyzing the available literature and summarizing experience of student's mathematical
+Olympiads, teachers at Ryazan state Radiotechnical University published methodical
+manual for teachers and students interested in non-standard tasks and methods
+of solving them, which in this article is presented to the interested readers.
+Keywords: student math competitions, non-standard tasks.
+
+On the example of solving the olympiad tasks the specialties and possibilities of
+L'Hospital’s rule are considered.
+Keywords: limit, L'Hospital's rule, derivative of function, differential equation.
+
+The article discusses the advantages, features and possibilities of modern tools of
+statistical data processing - computing environment and programming language open
+source R - for use in the preparation of bachelors.
+Keywords: vocational training, methods of statistical processing, statistical software
+package.
+
+Depending on the mobility of three orthonormal base vectors for a Cartesian
+coordinate system the definition of the absolute and local derivatives of an arbitrary vector
+are analyzed.
+Keywords: vector function, a scalar argument, the absolute derivative, the local
+derivative, bazis vectors, movable (fixed) coordinate system.
+
+The notions of "one-sided derivative" and "one-sided limit of derivative" and
+their denotations in standard courses of mathematical analysis are analyzed.
+Keywords: one-sided limit, one-sided derivative, infinite derivative, one-sided
+continuity.
+
+On the example of the use of graphic differentiation methods and integration in
+the discipline "Processes and devices of chemical technologies" we discuss some of the
+problems of the competence approach to the teaching of mathematics at technical University,
+in particular, differences in the conceptual and instrumental apparatus of mathematics
+in mathematics courses and in applied disciplines. Row of reasons of origin of
+these problems is marked, the ways of their removal are offered.
+Keywords: competence approach, graphical differentiation, graphical integration,
+mass transfer processes, absorption, drying.
+
+The analysis of the organization of professional training in the field of information
+technology is given; the necessity of adjusting the teaching of professional disciplines; the
+technique of training on programming, providing actualization of mathematical knowledge is
+proved.
+Keywords: professional education, mathematical competence, interdisciplinary
+teaching methods, evaluation of the complexity of algorithms.
+
+The experience of teaching the first-year students of chemical specialties using a
+rating system of knowledge control is considered. We developed a method of calculating
+the final rating of the student.
+Keywords: rating system, control of knowledge, training of students.
+
+The history of the interaction of mathematics and economics is more than a thousand
+years. There are mathematicians, who have made a significant contribution to the
+economy even among the Nobel Prize winners. However, the economy as a science has a
+number of features, so not non-standard solutions in the economy are associated with all
+the mathematical research. The article gives examples of innovative solutions in order to
+draw attention to the unlimited possibilities of finding new solutions in the economy.
+Keywords: economics, mathematics in economics, financial menagement, Nobel
+Prize in Economics.
+
+The paper examines a problem of developing a unified ontological model for storage
+and analysis of experimental data that is invariant to the subject area of the experiment
+and build SQL databases on that basis.
+Keywords: ontological model, experiment, database.
+
+The paper examines the problem of developing a database structure for organizing
+automated testing of complex software during its development.
+Keywords: software, testing, database.
+
+The technique of creating automated machining dimensional schemes for the calculation
+of the size of the technological details on the 3D model in the environment of Inventor.
+At the same time construction of the graph structure dimensional tours of the
+process is performed automatically. Formed file boundaries and edges are transferred to
+the program and calculate the size of the workpiece machining. Illustrations are given in
+the program design GraKON 3D.
+Keywords: dimensional chain, graph, dimensional diagram, chart, machining,
+design, precision, tolerance, program, GraKON 3D.
+
+The article describes the technique of creation of automatically formed reports
+for LODSMAN:PLM system. The structure of tables of system analyses, interrelations
+with use of the charts Microsoft SQLServer 2008 R2 are being looked for. Creation of
+graphic representation (template) of the report in the Fast Report editor is considered.
+The interrelation between data from base and a final template is created.
+Keywords: LOTSMAN:PLM, T-SQL, SQLServer, FastReport.
+
+The application of programming order with the developed interface for work with
+databases on #++ in Visual Studio 2013 is considered.
+Keywords: project Windows Forms, C ++, Visual Studio2013, databases.
+
+The influence of the silanes on the modification structure of natural and isoprene
+rubber during the processing of rolling through rolles in the air. A change modification
+in the viscosity depending on the duration of rolling and nature rubber takes place.
+Keywords: isoprene rubbers, silanes, structure.
+
+Artificial aqueous dispersions were obtained from a butadiene rubber. Polymeric
+films prepared based dispersions have good elasticity and adhesion to natural leather or
+fabric base.
+Keywords: rubber, potassium caseinate, elasticity, adhesion.
+
+The properties of polyfunctional oligobutadienes are investigated. The possibility
+of obtaining cataphoresis and metal-polymer systems on their basis is shown.
+Keywords: polyfunctional oligobutadienes, acid, neutralization and metal cataphoresis
+polymer systems.
+
+The process of film polyfunctional cationic oligobutadienes microstructure of different
+organic-film-forming systems in the presence of acid-type hardeners has been studies.
+The method of computer modeling points to the impact of cross-linking agents in the
+type of cross-linking of the polymer chains and the flexibility of determining the physical
+and performance properties of the materials is being pointed out. A scientific approach
+to the creation of special purpose compositions with an improved combination of properties
+is proposed.
+Keywords: oligobutadienes, film formation, curing acid type, molecular dynamics
+simulation, the microstructure of the chain, local molecular mobility.
+
+Biodegradability and environmental safety of the composite material based on
+diene-acrylic copolymers and starch with $eriodaphniaaffinis was investigated. It is
+shown that the composite material is environmentally friendly product.
+Keywords: polymer composite, eriodaphnia, biotesting.
+
+The problem of pollution of natural waste waters of produced in the former Yaroslavl
+particulate plant and method of their processing is considered.
+Keywords: Yaroslavl particulate plant, green oil, waste of green oil, rubber softener
+during regeneration.
+
+A comparative estimation of influence of the electric and magnetic parts of electromagnetic
+fields on the person is carried out by the method of variability of an cardio
+rhythm. It is shown, that character of changes of the adaptable systems state at action of
+these factors is identical.
+Keywords: an electric field, magnetic field, adaptation, variability, cardio
+rhythm, groups.
+
+The paper examines the dynamics of population intensity of several rotifer species
+under different values of specific and environmental parameters.
+Keywords: zooplankton, rotifers, population intensity, orbit.
